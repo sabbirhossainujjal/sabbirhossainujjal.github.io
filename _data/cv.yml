@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Shadman Shahid
+      value: Sabbir Hossain Ujjal
     - name: Date of Birth
-      value: 2nd November 1997
+      value: 23rd Augest 1999
     - name: Languages
       value: English, Bangla
 
@@ -23,7 +23,7 @@
       #       - Sub-description 2.
     - title: B.Sc. in Electrical and Electronic Engineering
       institution: Bangladesh University of Engineering and Technology
-      year: 2021
+      year: 2023
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
@@ -34,13 +34,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Lecturer
-      institution: BRAC University, Dhaka, Bangladesh
+    - title: Machine Learning Engineer
+      institution: ACI Limited, Dhaka, Bangladesh
       year: 2023 - Present
     
     - title: Machine Learning Engineer
-      institution: ACI Limited, Dhaka, Bangladesh
-      year: 2022 - 2023
+      institution: AIEdgeInside [AI Startup], Tokyo, Japan
+      year: 2023 - 2023
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -48,9 +48,9 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Research Assistant
-      institution: Nanophotonics Research Group, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-      year: 2021 - 2022
+    # - title: Research Assistant
+    #   institution: Nanophotonics Research Group, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+    #   year: 2021 - 2022
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -78,24 +78,42 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2016 - 2021
+    - year: 2017 - 2023
       items: 
         - Dean's List Award (Offered every session to top students in the department)
         - University Merit List (Offered to top 25 students in the department every semester)
-    - year: 2017
-      title: Champion team in Inter-University Poster Presentation Contest, Essonance 2017
+    - year: 2024
+      title: 1st Runner Up team in IUT ICT Fest 2024 Datathon.
       items: 
         - Final at Islamic University of Technology, Gazipur, Bangladesh  
-        
+    - year: 2023
+      title: Ranked 49th Globally and 4th in Bangladesh, Bengali.Ai Speech Recognition Competition.
+      items: 
+        - Kaggle Competition. 
+    - year: 2022
+      title: RISE Student Research Grant Award
+      items: 
+        - Research grant for impactful undergraduate research given by Research and Innovation Center for Science and Engineering (RISE), BUET
+    - year: 2015
+      title: Govt. General Scholarship for Secondary School Certificate Examination
+      items: 
+        - Scholarship awarded by the Ministry of Education, Bangladesh for extraordinary result in the SSC (Secondary School Certificate) examination.
+    - year: 2013
+      title: President's Scout Award
+      items: 
+        - The highest award of Scout in Bangladesh 
+
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Nanophotonics and Plasmonics 
+    - title: Deep Learning
       items: 
-        - Photonic Integrated Circuit (PIC) compatible components and devices
-        - Non-linear Optics
-        - Quantum photonics
+        - Natural Language Understanding
+        - Conversatioanl Agents
+        - Automatic Speech Recognition
+        - Robotics
     # - title: Photonic Inverse design
     #   items:
     #     - Application of Machine Learning and Deep Learning for Photonic Inverse Design
@@ -104,4 +122,4 @@
   type: list
   contents:
     - <b>Sports:</b> Basketball, Cricket.
-    - <b>Hobbies:</b> Travelling, Singing, etc 
+    - <b>Hobbies:</b> Gaming, Reading, etc 
