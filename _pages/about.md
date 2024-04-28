@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Graduate Student (M.Sc)</a>. Machine Learning Engineer 
-
+subtitle: <a href='#'>Machine Learning Engineer </a>. 
+Graduate Student (M.Sc)
 
 profile:
   align: left
@@ -28,12 +28,12 @@ I am currently working as a Machine Learning Engineer in [ACI Limited][ACI]. As 
 
 I am also doing M.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Natural Language Understanding and Conversational AI under [Professor Dr. Mohammad Ariful Haque][Arif].
  
- My research interest includes  deep learning and natural language undersatanding, conversational ai system design and optimization and human computer interaction. 
+ My research interest includes  deep learning and natural language undersatanding, conversational ai system design and human computer interaction. I have been working with deep learning and natural language processing for 2 years. Also I have very passionate about robtics and human robot interaction. 
  
 <!-- However, a thanks to my recent role as a machine learning engineer since July 2022, I also have workable expertise in _Machine learning/Deep learning techniques and tools_, especially in the context of serving a multi-faceted business institution.  -->
 
 <!-- This interest has driven me to explore the field of ML/DL-assisted electromagnetic simulation and modelling.   -->
-<!-- My greater goal is to work with enabled photonic computation and photonic devices. To be at the forefront of photonic integrated circuits research, building machine learning optimized devices. -->
+My greater goal is to work with scaleable ai system that can remove the barier between technologies and human without technical literacy. To be at the forefront of natural language undersating research, building scaleable systems.
 
 <!-- 
 I have previously worked with a special class of plasmonic lasers called **[Tamm-plasmon lasers][tamm-laser]**. My goal had been to devise a design for a tamm-plasmon laser, that could operate with two closely spaced modes. To that end, I, along with my former research partner [Shahed-e-Zumrat][zumrat] devised two different approaches. The first approach utilized **[a lateral redesigning of a simple rectangular nanohole array to a more complex merged lattice array][merged-lattice]**. The second approach relied on the utilization of **[two distributed Bragg reflectors, tuned to slightly different wavelengths][dual-dbr-laser]**
