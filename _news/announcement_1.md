@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lumerical workshop post
-date: 2023-01-27 
+title: 1st Runner Up in IUT 11th National ICT FEST 2024 Datathon
+date: 2024-04-27 
 inline: true
 related_posts: false
 ---
+My team "KAKATUA" became 1st Runner Up in <a href="https://www.facebook.com/events/s/iut-ict-fest-2024-datathon-asr/786436059673205/">IUT ICT FEST 2024 Datathon</a>. The datathon was focused on developing AI model for automatic speech recognition for Bengali regional dialects. The datathon was hosted nationwide in <a href="https://www.kaggle.com/competitions/ben10">Kaggle</a>.
 
-I have taken a <a href="https://www.facebook.com/events/1195752354653433/?__cft__[0]=AZWSnC4sXokMLmFb7saf8sT30ovsv5uxIWUzQ2SfUGvmk-bFvwmbKlhCao_rojugNeUkueZmCcjQ23ChyJbUaJTo41lB81GHPyrMaIResIU2KQ&__tn__=-UK-R" class="href">Workshop on Lumerical FDTD</a> in Bangladesh University of Engineering and Technology, my alma mater.

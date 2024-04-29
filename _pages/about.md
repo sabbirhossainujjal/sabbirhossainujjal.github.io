@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Machine Learning Engineer </a>. 
-Graduate Student (M.Sc)
+subtitle: <a href='#'>Machine Learning Engineer</a> <p>Graduate Student (M.Sc)</p>
 
 profile:
   align: left
@@ -28,8 +27,8 @@ I am currently working as a Machine Learning Engineer in [ACI Limited][ACI]. As 
 
 I am also doing M.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Natural Language Understanding and Conversational AI under [Professor Dr. Mohammad Ariful Haque][Arif].
  
- My research interest includes  deep learning and natural language undersatanding, conversational ai system design and human computer interaction. I have been working with deep learning and natural language processing for 2 years. Also I have very passionate about robtics and human robot interaction. 
- 
+My research interest includes  deep learning and natural language undersatanding, conversational ai system design and human computer interaction. I have been working with deep learning and natural language processing for 2 years. Also I have very passionate about robtics and human robot interaction. 
+
 <!-- However, a thanks to my recent role as a machine learning engineer since July 2022, I also have workable expertise in _Machine learning/Deep learning techniques and tools_, especially in the context of serving a multi-faceted business institution.  -->
 
 <!-- This interest has driven me to explore the field of ML/DL-assisted electromagnetic simulation and modelling.   -->
@@ -47,11 +46,12 @@ Apart from the published works, I am also currently exploring ~~the physics of T
 [EEE-BUET]:https://eee.buet.ac.bd/
 [buet]:https://www.buet.ac.bd/
 
-[tamm-laser]:https://iopscience.iop.org/article/10.1088/2399-6528/aab7e4/meta
+<!-- [tamm-laser]:https://iopscience.iop.org/article/10.1088/2399-6528/aab7e4/meta
 [zumrat]:https://www.researchgate.net/profile/Shahed-E-Zumrat
 [merged-lattice]:https://pubs.rsc.org/en/content/articlelanding/2022/NA/D1NA00402F
-[dual-dbr-laser]:https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-14-25234&id=477422
-[ug-thesis]:https://drive.google.com/file/d/14G0N8WlRBaGbqvl5rINicUUSEyCiv9ub/view
+[dual-dbr-laser]:https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-14-25234&id=477422 -->
+
+<!-- [ug-thesis]:https://drive.google.com/file/d/14G0N8WlRBaGbqvl5rINicUUSEyCiv9ub/view -->
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
