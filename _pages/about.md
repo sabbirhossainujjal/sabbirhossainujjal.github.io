@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Machine Learning Engineer</a> <p>Graduate Student (M.Sc)</p>
+subtitle: <a href='#'>Machine Learning Engineer</a><p>Graduate Student (M.Sc)</p>
 
 profile:
   align: left

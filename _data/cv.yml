@@ -13,7 +13,7 @@
   contents:
     - title: M.Sc. in Electrical and Electronic Engineering
       institution: Bangladesh University of Engineering and Technology
-      year: 2024 (Tentative)
+      year: 2025 (Tentative)
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -78,6 +78,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      title: Champion of Robi Datathon 3.0
+      items: 
+        - My team `ACI_ServerDown` has become the champions of the biggest data analysis event in Bangladesh Robi Datathon 3.0
     - year: 2024
       title: 1st Runner Up team in IUT ICT Fest 2024 Datathon.
       items: 
