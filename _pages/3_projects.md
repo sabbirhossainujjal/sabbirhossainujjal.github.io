@@ -11,7 +11,7 @@ horizontal: false
 
 For now, the projects are not described. Only the cards are shown. Overtime I will gradually, populate the contents of each of the projects. 
 
-*These projects include research works that have not been published (yet). Published works are listed under __Research__*
+*These projects include research works that have not been published (yet). Published works are listed under [__Research__](/research/)*
 
 <!-- pages/projects.md -->
 <div class="projects">

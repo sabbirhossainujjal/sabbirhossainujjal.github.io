@@ -78,10 +78,6 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2017 - 2023
-      items: 
-        - Dean's List Award (Offered every session to top students in the department)
-        - University Merit List (Offered to top 25 students in the department every semester)
     - year: 2024
       title: 1st Runner Up team in IUT ICT Fest 2024 Datathon.
       items: 
@@ -94,6 +90,10 @@
       title: RISE Student Research Grant Award
       items: 
         - Research grant for impactful undergraduate research given by Research and Innovation Center for Science and Engineering (RISE), BUET
+    - year: 2017 - 2023
+      items: 
+        - Dean's List Award (Offered every session to top students in the department)
+        - University Merit List (Offered to top 25 students in the department every semester)
     - year: 2015
       title: Govt. General Scholarship for Secondary School Certificate Examination
       items: 
@@ -122,4 +122,4 @@
   type: list
   contents:
     - <b>Sports:</b> Basketball, Cricket.
-    - <b>Hobbies:</b> Gaming, Reading, etc 
+    - <b>Hobbies:</b> Gaming, Reading
