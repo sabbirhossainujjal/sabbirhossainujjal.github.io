@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Others
-nav: true
-nav_order: 6
+nav: True
+nav_order: 7
 dropdown: true
-children: 
-    - title: Repositories
-      permalink: /repositories/
-    # - title: Extra Curricular Activities
-    #   permalink: /eca/
-    # - title: Test Scores
-    #   permalink: /test-scores/
+children:
+    - title: Certificates
+      permalink: /certificates/
+    # - title: Photo Galery
+    #   permalink: /photo_galery/
+
     # - title: divider
     # - title: "."
     #   permalink: /blog/

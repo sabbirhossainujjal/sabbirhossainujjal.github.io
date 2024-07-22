@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Some statistics regarding my github repositories.
-nav: false
-nav_order: 3
+nav: True
+nav_order: 6
 ---
 
 ## GitHub users
