@@ -8,6 +8,9 @@ img: assets/img/project/calendar_Clock.jpg
 importance: 8
 category: academic
 ---
+
+**Project Link** : [Bangla-Calendar-Clock](https://github.com/VirusProton/Bangla-Calendar-Clock)
+
 A microprocessor based project where we developed a device which can show time, date, day of the week in Bangla and date not only in normal Gregorian calendar system but also Bengali date and Arabic date system. Our developed clock was later selected and hung on the microprocessor lab of BUET EEE department.
 
 

@@ -8,6 +8,8 @@ img: assets/img/project/resume_proj.png
 importance: 4
 category: academic
 ---
+**Project Link**: [Resume Classification ](https://github.com/VirusProton/Resume_Classification)
+
 Designed an deep learning based end-to-end system that can classify a given resume and sort them in customized folders. This project was designed for seamless integration into any company's recruitment process enhancing efficiency and effectiveness in candidate evaluation and selection.
 
 `Deep Learning`, `NLP`, `Text Classification`, `Multiclass classification`, `Bert`, `Deberta`, `xlnet`
