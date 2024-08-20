@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 1st Runner Up in IUT 11th National ICT FEST 2024 Datathon
-date: 2024-04-27 
+title: Champion of Robi Datathon 3.0
+date: 2024-06-03 
 inline: true
 related_posts: false
 ---
-My team `KAKATUA` became 1st Runner Up in <a href="https://www.facebook.com/events/s/iut-ict-fest-2024-datathon-asr/786436059673205/">IUT ICT FEST 2024 Datathon</a>. The datathon was focused on developing AI model for automatic speech recognition for Bengali regional dialects. The datathon was hosted nationwide in <a href="https://www.kaggle.com/competitions/ben10">Kaggle</a>.
-
+My team ACI_ServerDown has become the **champion** of the biggest data analysis event in Bangladesh <a href="https://www.robi.com.bd/en/datathon">Robi Datathon 3.0</a> organized by <a href="https://www.linkedin.com/company/robi-axiata-limited">Robi Axiata Limited</a>, outshining 1,000 teams formed by 3,500 talented individuals.

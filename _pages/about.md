@@ -22,13 +22,13 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am currently working as a Machine Learning Engineer in [ACI Limited][ACI]. As a machine learning engineer, my responsibility is to provide artificial intelligence based solution for the company.
+I am currently working as a **Machine Learning Engineer** in [ACI Limited][ACI]. As a machine learning engineer, my responsibility is to provide artificial intelligence based solution for the company.
 
 <!-- I am currently looking for graduate positions in labs focusing on **<span style="font-size: 16px;">nanophotonics, active plasmonics and non-linear optics</span>**. For my Master's thesis, I am working on enhancing non-linear optical phenomena with active plasmonics.   -->
 
-I have done my B.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Natural Language Understanding and Conversational AI under [Professor Dr. Mohammad Ariful Haque][Arif].
+I have done my B.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in **Natural Language Understanding** and **Conversational AI** under supervision of [Professor Dr. Mohammad Ariful Haque][Arif].
  
-My research interest includes  deep learning and natural language undersatanding, conversational ai system design and human computer interaction. I have been working with deep learning and natural language processing for 2 years. Also I have very passionate about robtics and human robot interaction. 
+My research interest includes **NLP**, **Conversational AI**, **LLM**, **Agents** and **Human Computer Interaction**. I have been working with NLP and Conversational AI for 2 years. Also I am very passionate about Robtics and human robot interaction. 
 
 <!-- However, a thanks to my recent role as a machine learning engineer since July 2022, I also have workable expertise in _Machine learning/Deep learning techniques and tools_, especially in the context of serving a multi-faceted business institution.  -->
 
