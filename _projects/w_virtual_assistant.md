@@ -8,9 +8,9 @@ importance: 1
 category: work
 ---
 
-
-
 The primary objective of this project was to create an intuitive and user-friendly system capable of delivering accurate and contextually relevant information to both employees and root-level users. This virtual assistant seamlessly integrates several advanced technologies to ensure it operates efficiently without the need for constant human intervention.
+
+`LLM`, `RAG`, `ASR`, `TTS`
 
 > Components of the overall system and technologies which for each components
 
@@ -30,6 +30,8 @@ The primary objective of this project was to create an intuitive and user-friend
 * Multilingual Capability
     * The virtual assistant is designed to be multilingual, with the ability to operate proficiently in both Bengali and English. This feature is particularly beneficial for root-level users who may face challenges with new technology and language barriers. By supporting these two languages, the assistant ensures broader accessibility and usability, fostering inclusivity within the organization.
 
+# Here is a simple illustration of the project <br>
+<img src="/assets/img/project/virtual_assistant.gif" width="600px" height="400px" alt="Satelite Project">
 
 #### Collaborators:
     1. Sifat Ibn Amin

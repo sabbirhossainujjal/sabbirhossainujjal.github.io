@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.Sc. in Electrical and Electronic Engineering
-      institution: Bangladesh University of Engineering and Technology
-      year: 2025 (Tentative)
+    # - title: M.Sc. in Electrical and Electronic Engineering
+    #   institution: Bangladesh University of Engineering and Technology
+    #   year: 2025 (Tentative)
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -24,6 +24,9 @@
     - title: B.Sc. in Electrical and Electronic Engineering
       institution: Bangladesh University of Engineering and Technology
       year: 2023
+    - title: Higher Secondary School Certificate (HSC)
+      institution: Dhaka College
+      year: 2017
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
@@ -40,7 +43,7 @@
     
     - title: Machine Learning Engineer
       institution: AIEdgeInside [AI Startup], Tokyo, Japan
-      year: 2023 - 2023
+      year: Aug 2023 - Oct 2023
       # description:
       #   - Description 1.
       #   - Description 2.

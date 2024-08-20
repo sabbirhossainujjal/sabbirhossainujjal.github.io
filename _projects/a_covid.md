@@ -10,3 +10,9 @@ category: academic
 ---
 
 IOT and Deep Learning based project where we proposed a monitoring system for covid patient and notify concern people in case of emergency. We used a deep learning based model for analysis and monitoring patient data.
+
+`Audio event detection`, `Cough Detection`, `Deep Learning`, `YAMNet`, `AudioSet Dataset`
+
+> For more details please visit the project repository <br>
+
+- Project Link : [Real Time Covid Patient Monitoring](https://github.com/VirusProton/Cough-Rate-estimation-for-Covid-Patient-monitoring-system-using-Deep-learning)

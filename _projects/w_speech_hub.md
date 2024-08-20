@@ -12,6 +12,11 @@ SpeechHub is a sophisticated productivity tool powered by Automatic Speech Recog
 
 This application efficiently summarizes voice commands, identifies speakers, and organizes dialogues into a clear conversational format. It also pinpoints important business keywords, making information easy to find. Users can smoothly direct the AI to handle emails and other tasks, and it accurately records and summarizes meeting details.
 
+`Automatic Speech Recognition`, `Summarizer`, `Keyword Extraction`, `Promotional Content Extraction`, `LLM`
+
+# Here is a simple illustration of the project <br>
+<img src="/assets/img/project/voice_to_text.gif" width="600px" height="400px" alt="Satelite Project">
+
 ### Collaborators:
     1. A F M Mahfuzul Kabir
     2. Sawradip Saha

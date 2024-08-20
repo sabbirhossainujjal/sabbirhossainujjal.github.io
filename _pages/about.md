@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Machine Learning Engineer</a><p>Graduate Student (M.Sc)</p>
+subtitle: <a href='#'>Machine Learning Engineer</a>
+# <p>Graduate Student (M.Sc)</p>
 
 profile:
   align: left
@@ -25,7 +26,7 @@ I am currently working as a Machine Learning Engineer in [ACI Limited][ACI]. As 
 
 <!-- I am currently looking for graduate positions in labs focusing on **<span style="font-size: 16px;">nanophotonics, active plasmonics and non-linear optics</span>**. For my Master's thesis, I am working on enhancing non-linear optical phenomena with active plasmonics.   -->
 
-I am also doing M.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Natural Language Understanding and Conversational AI under [Professor Dr. Mohammad Ariful Haque][Arif].
+I have done my B.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in Natural Language Understanding and Conversational AI under [Professor Dr. Mohammad Ariful Haque][Arif].
  
 My research interest includes  deep learning and natural language undersatanding, conversational ai system design and human computer interaction. I have been working with deep learning and natural language processing for 2 years. Also I have very passionate about robtics and human robot interaction. 
 

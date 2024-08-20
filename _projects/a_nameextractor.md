@@ -19,3 +19,9 @@ input: আব্দুর রহিম নামের কাস্টমার�
 output: আব্দুর রহিম
 input: অর্থনীতি ও আর্থসামাজিক বেশির ভাগ সূচকে বাংলাদেশ ছাড়িয়ে গেছে দক্ষিণ এশিয়াকে ।
 output: None
+
+`Deep Learning`, `NLP`, `Token Classification`, `Name Entity Recognition`
+
+> For more details please visit the project repository <br>
+
+- Project Link : [Bengali Name Extractor](https://github.com/VirusProton/Bengali-Person-Name-Extractor)
