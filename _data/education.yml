@@ -20,7 +20,9 @@
   duration: "March 2018 - May 2023"
   year: 2023
   cgpa: "3.75"
-  transcripts: "/assets/pdf/AiGeneratedTextDetection.pdf"
+  cgpa_scale: "4.00"
+  transcripts: "/assets/pdf/BSC_certificate.pdf"
+  certificate: "/assets/pdf/BSC_certificate.pdf"
   location: "Dhaka, Bangladesh"
   logo: "buet.png"
 
@@ -34,5 +36,6 @@
   duration: "2015 - 2017"
   year: 2017
   cgpa: "5.00"
+  cgpa_scale: "5.00"
   location: "Dhaka, Bangladesh"
   logo: "dc.png"

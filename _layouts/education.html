@@ -94,12 +94,15 @@ layout: default
               <!-- Hidden Result block -->
               {% if entry.cgpa -%}
               <div class="abstract hidden">
-                <p><strong> CGPA:</strong> <b><i>{{entry.cgpa}}</i></b> / 4.00 </p>
+                <p><strong> CGPA:</strong> <b><i>{{entry.cgpa}}</i></b> / {{entry.cgpa_scale}} </p>
                 {% if entry.rank %}
                 <p><strong>Rank:</strong> {{entry.rank}}</p>
                 {%- endif -%}
                 {% if entry.transcripts %}
                 <p><strong>Transcripts:</strong> <a href="{{entry.transcripts}}" target="_blank">Academic Transcripts</a></p>
+                {%- endif -%}
+                {% if entry.certificate %}
+                <p><strong>Certificate:</strong> <a href="{{entry.certificate}}" target="_blank">Certificate</a></p>
                 {%- endif -%}
 
               </div>
