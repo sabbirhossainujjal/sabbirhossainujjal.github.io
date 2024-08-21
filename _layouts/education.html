@@ -98,6 +98,9 @@ layout: default
                 {% if entry.rank %}
                 <p><strong>Rank:</strong> {{entry.rank}}</p>
                 {%- endif -%}
+                {% if entry.transcripts %}
+                <p><strong>Transcripts:</strong> <a href="{{entry.transcripts}}" target="_blank">Academic Transcripts</a></p>
+                {%- endif -%}
 
               </div>
               {%- endif -%}
