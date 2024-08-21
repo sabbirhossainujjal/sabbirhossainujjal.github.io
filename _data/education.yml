@@ -21,7 +21,7 @@
   year: 2023
   cgpa: "3.75"
   cgpa_scale: "4.00"
-  transcripts: "/assets/pdf/BSC_certificate.pdf"
+  transcripts: "/assets/pdf/BSC_transcripts.pdf"
   certificate: "/assets/pdf/BSC_certificate.pdf"
   location: "Dhaka, Bangladesh"
   logo: "buet.png"
