@@ -9,9 +9,9 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p style="font-weight: 400; font-style: italic">Machine Learning Engineer</p>
-    <p style="font-weight: 500;">ACI Limited</p>
+  # address: >
+  #   <p style="font-weight: 400; font-style: italic">Machine Learning Engineer</p>
+  #   <p style="font-weight: 500;">ACI Limited</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -43,7 +43,7 @@ Apart from the published works, I am also currently exploring ~~the physics of T
 
 ---
 [Arif]:https://eee.buet.ac.bd/people/faculty/dmarh 
-[ACI]:https://www.aci-bd.com/mis_department.php
+[ACI]:https://www.aci-bd.com
 [EEE-BUET]:https://eee.buet.ac.bd/
 [buet]:https://www.buet.ac.bd/
 
