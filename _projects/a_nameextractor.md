@@ -8,6 +8,7 @@ img: assets/img/project/name_extractor.png
 importance: 3
 category: academic
 ---
+keywords: `Deep Learning`, `NLP`, `Token Classification`, `Name Entity Recognition`
 
 **Project Link** : [Bengali Name Extractor](https://github.com/VirusProton/Bengali-Person-Name-Extractor)
 
@@ -21,7 +22,6 @@ output: আব্দুর রহিম<br>
 input: অর্থনীতি ও আর্থসামাজিক বেশির ভাগ সূচকে বাংলাদেশ ছাড়িয়ে গেছে দক্ষিণ এশিয়াকে ।<br>
 output: None<br>
 
-`Deep Learning`, `NLP`, `Token Classification`, `Name Entity Recognition`
 
 > For more details please visit the project repository <br>
 

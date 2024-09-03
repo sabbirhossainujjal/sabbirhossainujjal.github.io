@@ -8,9 +8,11 @@ img: assets/img/project/AI-content-detectors.png
 importance: 1
 category: academic
 ---
+
+keywords: `Deep Learning`, `NLP`, `AI Text Detection`, `Classification`, `Feature Engineering`, `Machine Learning`, `Deberta`, `Bert`
+
 A deep learning based project to build a system which can detect whether a given text is AI generated or Human written. The project was focused to build a robust model which accurately detect AI generated text which can help on different evaluation process.
 
-`Deep Learning`, `NLP`, `AI Text Detection`, `Classification`, `Feature Engineering`, `Machine Learning`, `Deberta`, `Bert`
 
 # Problem Statement
 With the rise of AI revolution, In recent years, large language models (LLMs) have become increasingly sophisticated, capable of generating text that is difficult to distinguish from human-written text. Modern LLM are so powerful that students could use LLMs to generate essays that are not their own, missing crucial learning keystones, which also bring significant changes in education system. 

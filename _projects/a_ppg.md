@@ -9,10 +9,12 @@ importance: 6
 category: academic
 ---
 
-### The Project Report Preview
+Keywords: `PPG Data`, `Microcontroller`, `system design`, `Sensors intregation`, `Matlab`
+
+
 Proposed and implemented an wearable device for detecting drowsiness using PPG signal. Our designed device can detect drowsiness and send user an alarm to prevent drowsiness which can be very helpful in reducing road accidents.
 
-`PPG Data`, `Microcontroller`, `system design`, `Sensors intregation`, `Matlab`
+
 
 The project report is provided below:
 <iframe src="/assets/pdf/EEE_426_Drowsiness_Detection.pdf" width="100%" height="600px" frameborder="0">

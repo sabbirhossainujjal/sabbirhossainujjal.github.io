@@ -8,11 +8,12 @@ img: assets/img/project/object_blind_proj.jpg
 importance: 5
 category: academic
 ---
+
+keywords: `Deep Learning`, `Computer Vision`, `Object Detection`, `YOLO`, `Faster-RCNN`, `MobileNet`, `Pascal VOC Dataset`
 **Project Link** : [Real-Time-Object-Detection-for-Blind-People ](https://github.com/nihan139/Real-Time-Object-Detection-for-Blind-People)
 
 A deep learning based project to build a system which can detect object from image and help blind people passing through the information through auido. 
 
-`Deep Learning`, `Computer Vision`, `Object Detection`, `YOLO`, `Faster-RCNN`, `MobileNet`, `Pascal VOC Dataset`
 
 > For more details please visit the project repository <br>
 

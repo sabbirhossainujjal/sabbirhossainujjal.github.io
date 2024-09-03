@@ -4,13 +4,20 @@ title: Satellite Data Analysis System
 short-title: Satellite Data Analysis System
 description: System for taking effective decision based on satellite data.
 img:  assets/img/project/map_project.gif
-importance: 3
+importance: 4
 category: work
 ---
 
+Keywords: `Satelite Data Analysis`, `GIS`, `Google Earth Engine(GEE)`, `Sentinel satelite Data`
+
 This project leverages Sentinel-1 satellite imagery to accurately map croplands and concrete built areas in Bangladesh at the Upazilla level, providing a comprehensive understanding of land use patterns. By integrating advanced image processing and machine learning techniques, the project aims to enhance market size estimation and supply chain analysis. This will enable the identification of distribution gaps, logistical challenges, and potential sales opportunities in both agricultural and urban sectors, supporting strategic decision-making and improving overall market efficiency.
 
-`Satelite Data Analysis`, `GIS`, `Google Earth Engine`, `Sentinel satelite Data`
+Key feature of Satellite Data Analysis System:
+- Identify potential business market of fertilizer and seeds  analysing existing business data and supervised classification
+- Identify potential retails store location analysing existing retail stores and other parameters like building area, household areas etc
+- Give weather update using statelite data
 
-# Here is a simple illustration of the project <br>
+<br><br>
+## Here is a simple illustration of the project <br>
+**The code for this project can't be made public for propritory reasons** <br>
 <img src="/assets/img/project/map_project.gif" width="600px" height="400px" alt="Satelite Project">
