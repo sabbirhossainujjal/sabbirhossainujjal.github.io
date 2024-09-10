@@ -5,7 +5,7 @@ short-title: Real Time Covid Patient Monitoring
 description: IOT and Deep Learning based project where we proposed a monitoring system for covid patient and notify concern people in case of emergency.
 img: assets/img/project/covid_patient.jpg
 # redirect: https://unsplash.com
-importance: 7
+importance: 8
 category: academic
 ---
 

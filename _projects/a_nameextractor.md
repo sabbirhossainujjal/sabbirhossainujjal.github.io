@@ -5,7 +5,7 @@ short-title: Bengali Name Extractor
 description: A deep learning based project to build a system which can extract person name from given text. 
 img: assets/img/project/name_extractor.png
 # redirect: https://unsplash.com
-importance: 3
+importance: 4
 category: academic
 ---
 keywords: `Deep Learning`, `NLP`, `Token Classification`, `Name Entity Recognition`

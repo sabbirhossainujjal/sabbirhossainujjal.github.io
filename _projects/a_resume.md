@@ -5,7 +5,7 @@ short-title: Resume Classification and Sorting
 description: Designed an deep learning based end-to-end system that can classify a given resume and sort them in customized folders.
 img: assets/img/project/resume_proj.png
 # redirect: https://unsplash.com
-importance: 4
+importance: 5
 category: academic
 ---
 Keywords: `Deep Learning`, `NLP`, `Text Classification`, `Multiclass classification`, `BERT`, `DeBERTa`, `xlnet`

@@ -5,7 +5,7 @@ short-title: Drowsiness Detection by PPG signal Analysis
 description: Proposed and implemented an wearable device for detecting drowsiness using PPG signal. Our designed device can detect drowsiness and send user an alarm to prevent drowsiness which can be very helpful in reducing road accidents.
 img: assets/img/project/ppg_proj.png
 # redirect: https://unsplash.com
-importance: 6
+importance: 7
 category: academic
 ---
 

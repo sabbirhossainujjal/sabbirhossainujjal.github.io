@@ -5,7 +5,7 @@ short-title: AI Generated Text Detection
 description: A deep learning based project to build a system which can detect whether a given text is AI generated or Human written.
 img: assets/img/project/AI-content-detectors.png
 # redirect: https://unsplash.com
-importance: 1
+importance: 3
 category: academic
 ---
 

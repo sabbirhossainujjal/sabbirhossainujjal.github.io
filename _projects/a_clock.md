@@ -5,7 +5,7 @@ short-title: Bangla Calendar Clock
 description: A microprocessor based project where we developed a device which can show time, date, day of the week in Bangla.
 img: assets/img/project/calendar_Clock.jpg
 # redirect: https://unsplash.com
-importance: 8
+importance: 9
 category: academic
 ---
 keywords: `Microprocessor`, `System Design`, `Bengali Clock`

@@ -19,11 +19,10 @@ Key feature of the project:
 - Integrate with `SQL` database for automatically bill generation for rent vehicles
 - Database logging system for ensuring security of the factory and outlets.
 
-Key Technologies used in SpeechHub:
+Key Technologies used in this project:
 - Yolo-V5 model for vehicle detection and logging
 - Automatic number plate extraction system using yolo-v5
-- Integration of `FastAPI` based devOps system and `SQL` based database system for logging and billing.
-
+- `FastAPI` with Docker based microservices and MS `SQL` Server logging and billing.
 Language/Framework: Python 3.9, PyTorch
 
 <br><br>

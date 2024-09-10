@@ -23,7 +23,7 @@ For now, the projects are not described. Only the cards are shown. Overtime I wi
   <br>
   The following projects are the ones I worked on as a part of my job at <b>ACI Limited</b>. The list is not exhaustive, as I have omitted many of the aspects of individual projects, due to confidentiality. However, I have tried to be as descriptive as possible. Just like the other projects, I will keep updating these over time.  
   {%- endif -%}
-  <h2 class="category">{{ category }}</h2>
+  <h2 class="category" style="color: #8E2C2C;">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
