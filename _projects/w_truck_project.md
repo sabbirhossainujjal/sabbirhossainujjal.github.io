@@ -10,9 +10,8 @@ category: work
 
 Keywords: `computer vision`, `vehicle Detection`, `Number plate detection`<br>
 
-SpeechHub is a sophisticated productivity tool powered by Automatic Speech Recognition (ASR) technology, supporting both Bengali and English. It allows users to upload any audio conversation recorded or live, and transcribes it into a conversational format. Additionally, it provides summarization and detects keywords and speakers.
+This project implements an intelligent vehicle monitoring system for business factories using CCTV footage. It leverages YOLO-V5 for vehicle detection and number plate extraction, integrating with a SQL database for automated rent vehicle billing and security logging.
 
-This application efficiently summarizes business meetings, identifies speakers, and organizes dialogues into a clear conversational format. It also pinpoints important business keywords, making information easy to find.
 
 Key feature of the project:
 - Automatically detect incomming and outgoing vechicle in business factory from CCTV footage
