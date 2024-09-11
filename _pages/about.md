@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am currently working as a **Machine Learning Engineer** in [ACI Limited][ACI]. As a machine learning engineer, my responsibility is to provide artificial intelligence based solution for the company.
+I am currently working as a **Machine Learning Engineer (Team Lead)** in [Advanced Chemical Industries (ACI) Limited][ACI]. As a team lead and machine learning engineer, my responsibility is to leading and mentoring a cross-functional team in developing artificial intelligence based solution for business-specific use cases for the company.
 
 <!-- I am currently looking for graduate positions in labs focusing on **<span style="font-size: 16px;">nanophotonics, active plasmonics and non-linear optics</span>**. For my Master's thesis, I am working on enhancing non-linear optical phenomena with active plasmonics.   -->
 
@@ -46,13 +46,6 @@ Apart from the published works, I am also currently exploring ~~the physics of T
 [ACI]:https://www.aci-bd.com
 [EEE-BUET]:https://eee.buet.ac.bd/
 [buet]:https://www.buet.ac.bd/
-
-<!-- [tamm-laser]:https://iopscience.iop.org/article/10.1088/2399-6528/aab7e4/meta
-[zumrat]:https://www.researchgate.net/profile/Shahed-E-Zumrat
-[merged-lattice]:https://pubs.rsc.org/en/content/articlelanding/2022/NA/D1NA00402F
-[dual-dbr-laser]:https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-14-25234&id=477422 -->
-
-<!-- [ug-thesis]:https://drive.google.com/file/d/14G0N8WlRBaGbqvl5rINicUUSEyCiv9ub/view -->
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
