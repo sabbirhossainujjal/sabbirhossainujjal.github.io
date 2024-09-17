@@ -245,6 +245,47 @@ blockquote {
   }
 }
 
+// Social customization
+
+
+.social {
+  text-align: left;
+
+  .contact-icons {
+    font-size: 2rem; // Smaller icons
+    display: flex;
+    justify-content: space-between; // Evenly distribute icons
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding: 5px 0; // Add some vertical padding
+
+    a {
+      flex: 1; // Allow each icon to grow
+      display: flex;
+      justify-content: center; // Center icon within its space
+      margin: 0 5px; // Add some horizontal margin
+
+      i::before {
+        color: var(--global-text-color);
+        transition: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+
+  .contact-note {
+    font-size: 0.7rem;
+    text-align: center;
+    margin-top: 5px; // Increased space between icons and note
+  }
+}
+
+
 .navbar-toggler {
   .icon-bar {
     display: block;
@@ -296,32 +337,32 @@ blockquote {
   }
 }
 
-// Social (bottom)
+// // Social (bottom)
 
-.social {
-  text-align: center;
+// .social {
+//   text-align: center;
 
-  .contact-icons {
-    font-size: 4rem;
+//   .contact-icons {
+//     font-size: 4rem;
 
-    a {
-      i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
+//     a {
+//       i::before {
+//         color: var(--global-text-color);
+//         transition-property: all 0.2s ease-in-out;
+//       }
 
-      &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
-      }
-    }
-  }
+//       &:hover {
+//         i::before {
+//           color: var(--global-theme-color);
+//         }
+//       }
+//     }
+//   }
 
-  .contact-note {
-    font-size: 0.8rem;
-  }
-}
+//   .contact-note {
+//     font-size: 0.8rem;
+//   }
+// }
 
 
 // Footer
