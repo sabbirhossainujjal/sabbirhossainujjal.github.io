@@ -2,13 +2,17 @@
 layout: page
 title: Vehicle Number Plate Detection and Billing 
 short-title: Vehicle Number Plate Detection
-description: Vehicle Number Plate Detection system for factory billing system and security
+description: Vehicle Tracking System Aiding Factory Billing System and Security
 img: assets/img/project/truck_project.gif
 importance: 3
 category: work
 ---
 
 Keywords: `computer vision`, `vehicle Detection`, `Number plate detection`<br>
+
+---
+
+#### Brief Description
 
 This project implements an intelligent vehicle monitoring system for business factories using CCTV footage. It leverages YOLO-V5 for vehicle detection and number plate extraction, integrating with a SQL database for automated rent vehicle billing and security logging.
 
@@ -26,10 +30,15 @@ Key Technologies used in this project:
 Language/Framework: Python 3.9, PyTorch
 
 <br><br>
-## Here is a simple illustration of the project <br>
-**The code for this project can't be made public for propritory reasons**
 
-<img src="/assets/img/project/truck_project.gif" width="600px" height="400px" alt="Truck Project">
+Simple illustration of the project <br>
+
+<div class="gif-image-container">
+    <img src="/assets/img/project/truck_project.gif" width="600px" height="400px" alt="Truck Project">
+</div>
+
+N.B: **The code for this project can't be made public for propritory reasons**
+
 
 ### Collaborators:
     1. Sifat Ibn Amin

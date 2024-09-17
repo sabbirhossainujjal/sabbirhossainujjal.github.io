@@ -2,13 +2,17 @@
 layout: page
 title: Virtual Assistant
 short-title: Virtual Assistant 
-description:  Business specific virtual assitant
+description:  Customized AI Assistant Enhancing Business Operations
 img: assets/img/project/virtual_assistant.gif
 importance: 1
 category: work
 ---
 
 Keywords: `Large Language Model(LLM)`, `Retrival Augmented Generation(RAG)`, `Vector Database`, `Automatic Speech Recognition(ASR)`, `Text-to-Speech(TTS)`, 
+
+---
+
+#### Brief Description
 
 The primary objective of this project was to create an intuitive and user-friendly system capable of delivering accurate and contextually relevant information to both employees and root-level users. This virtual assistant seamlessly integrates several advanced technologies to ensure it operates efficiently without the need for constant human intervention and provides business specific supports to users.
 
@@ -17,8 +21,9 @@ Key modules of ACI Virtual Assistant:
 - Vector Database for storing business specific data
 - LLM based RAG system for response generation 
 - TTS system for deliver the response in audio format
+<br>
 
-> Details of the components of the overall system and technologies which for each components
+#### Details of the components of the overall system and technologies
 
 * Automatic Speech Recognition (ASR) Module
     * `Technology Used`: Transformer-based model Whisper trained on both Benglai and English Data.
@@ -42,10 +47,13 @@ Key modules of ACI Virtual Assistant:
 
 <br><br>
 
-## Here is a simple illustration of the project <br>
-**The code for this project can't be made public for propritory reasons**
- <br>
-<img src="/assets/img/project/virtual_assistant.gif" width="600px" height="400px" alt="Satelite Project">
+Simple illustration of the project <br>
+
+<div class="gif-image-container">
+    <img src="/assets/img/project/virtual_assistant.gif" width="600px" height="400px" alt="Satelite Project">
+</div>
+
+N.B: **The code for this project can't be made public for propritory reasons**
 
 #### Collaborators:
     1. Sifat Ibn Amin

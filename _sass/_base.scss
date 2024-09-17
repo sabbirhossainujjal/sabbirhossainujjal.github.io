@@ -247,7 +247,6 @@ blockquote {
 
 // Social customization
 
-
 .social {
   text-align: left;
 
@@ -336,34 +335,19 @@ blockquote {
     color: var(--global-hover-color);
   }
 }
+// gif centering
 
-// // Social (bottom)
+.gif-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
 
-// .social {
-//   text-align: center;
-
-//   .contact-icons {
-//     font-size: 4rem;
-
-//     a {
-//       i::before {
-//         color: var(--global-text-color);
-//         transition-property: all 0.2s ease-in-out;
-//       }
-
-//       &:hover {
-//         i::before {
-//           color: var(--global-theme-color);
-//         }
-//       }
-//     }
-//   }
-
-//   .contact-note {
-//     font-size: 0.8rem;
-//   }
-// }
-
+.gif-image-container img {
+  max-width: 100%;
+  height: auto;
+}
 
 // Footer
 footer.fixed-bottom {
@@ -563,10 +547,18 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
+    width: 300px; /* Fixed width for the grid item */
+    margin-bottom: 10px; /* Add some space between cards */
+    margin-right: 1px;
   }
-
+  .card.hoverable {
+    height: 350px; /* Fixed height for the card */
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);

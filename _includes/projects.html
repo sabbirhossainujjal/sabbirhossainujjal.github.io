@@ -1,17 +1,19 @@
 <!-- _includes/projects.html -->
 <style>
   .grid-item {
-    width: 300px; /* Fixed width for the grid item */
+    width: 350px; /* Fixed width for the grid item */
     margin-bottom: 20px; /* Add some space between cards */
+    margin-right: 20px;
   }
   .card.hoverable {
-    height: 400px; /* Fixed height for the card */
+    height: 350px; /* Fixed height for the card */
+    width: 280px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
   }
   .card figure {
-    height: 180px; /* Fixed height for the figure/image container */
+    height: 200px; /* Fixed height for the figure/image container */
     margin: 0;
     display: flex;
     align-items: center; /* Center the image vertically */
@@ -33,6 +35,13 @@
     flex: 1; /* Allows description to take up remaining space */
     overflow: auto; /* Adds scrollbar if content overflows */
   }
+  /* New style to ensure grid layout */
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px; /* This creates space between cards */
+  } 
+
 </style>
 
 <div class="grid-sizer"></div>

@@ -11,10 +11,11 @@ category: academic
 
 keywords: `NLP`, `Deep Learning`, `PyPi`
 
+---
+
+#### Brief Description
 
 **BanglaNLPToolkit** is a package for several classic NLP text preprocessing and augmentations for Bangla NLP tasks.
-
-**Project Link** : [BanglaNLPToolkit](https://github.com/sabbirhossainujjal/banglanlptoolkit)
 
 Key features:
 - Bangla Text Normalization.
@@ -28,3 +29,4 @@ Key features:
 - Simple Bangla Tokenizer
     - Robust simple word level and sententence level tokenizer for Bangla texts.
 
+**Project Link** : [BanglaNLPToolkit](https://github.com/sabbirhossainujjal/banglanlptoolkit)

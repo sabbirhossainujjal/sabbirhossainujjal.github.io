@@ -2,13 +2,17 @@
 layout: page
 title: Speech Hub
 short-title: Speech Hub 
-description: Complete Audio Based Solution for Business.
+description: Audio-Centric Business Management Platform Streamlining Operations
 img: assets/img/project/voice_to_text.gif
 importance: 2
 category: work
 ---
 
 Keywords: `Automatic Speech Recognition(ASR)`, `Summarizer`, `Keyword Extraction`, `Promotional Content Extraction`, `LLM`<br>
+
+---
+
+#### Brief Description
 
 SpeechHub is a sophisticated productivity tool powered by Automatic Speech Recognition (ASR) technology, supporting both Bengali and English. It allows users to upload any audio conversation recorded or live, and transcribes it into a conversational format. Additionally, it provides summarization and detects keywords and speakers.
 
@@ -29,10 +33,15 @@ Key Technologies used in SpeechHub:
 Language/Framework: Python 3.9, PyTorch
 
 <br><br>
-## Here is a simple illustration of the project <br>
-**The code for this project can't be made public for propritory reasons**
 
-<img src="/assets/img/project/voice_to_text.gif" width="600px" height="400px" alt="SpeechHub">
+Simple illustration of the project <br>
+
+<div class="gif-image-container">
+    <img src="/assets/img/project/voice_to_text.gif" width="600px" height="400px" alt="SpeechHub">
+</div>
+
+N.B: **The code for this project can't be made public for propritory reasons**
+
 
 ### Collaborators:
     1. A F M Mahfuzul Kabir
