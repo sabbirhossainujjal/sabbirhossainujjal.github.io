@@ -23,6 +23,7 @@
   cgpa_scale: "4.00"
   transcripts: "/assets/pdf/BSC_transcripts.pdf"
   certificate: "/assets/pdf/BSC_certificate.pdf"
+  grant: "/assets/pdf/Research_Grant.pdf"
   location: "Dhaka, Bangladesh"
   logo: "buet.png"
 

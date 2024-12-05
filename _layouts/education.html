@@ -104,7 +104,9 @@ layout: default
                 {% if entry.certificate %}
                 <p><strong>Certificate:</strong> <a href="{{entry.certificate}}" target="_blank">Certificate</a></p>
                 {%- endif -%}
-
+                {% if entry.grant %}
+                <p><strong>Research Grant:</strong> <a href="{{entry.grant}}" target="_blank">Research Grant</a></p>
+                {%- endif -%}
               </div>
               {%- endif -%}
 
