@@ -28,7 +28,7 @@ I am currently working as a **Machine Learning Engineer (Team Lead)** in [Advanc
 
 I have done my B.Sc in  [Electrical and Electronic Engineering][EEE-BUET] from [Bangladesh University of Engineering and Technology (BUET)][buet] with a specialization in **Natural Language Understanding** and **Conversational AI** under supervision of [Professor Dr. Mohammad Ariful Haque][Arif].
  
-My research interest includes **NLP**, **Conversational AI**, **LLM**, **Agents** and **Human Computer Interaction**. I have been working with NLP and Conversational AI for 2 years. Also I am very passionate about Robtics and human robot interaction. 
+My research interest includes **NLP**, **Computer Vision**, **Multimodal LLM**,**Agentic Systems** and **Human Computer Interaction**. I have been working with NLP and Computer Vision for 2 years. Also I am very passionate about Robtics and human robot interaction. 
 
 <!-- However, a thanks to my recent role as a machine learning engineer since July 2022, I also have workable expertise in _Machine learning/Deep learning techniques and tools_, especially in the context of serving a multi-faceted business institution.  -->
 
